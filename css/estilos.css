@@ -1,0 +1,38 @@
+body{
+	background-image: url('../img/restaurant.jpg') !important;
+}
+.jumbotron{
+	background-image: url('../img/anime.png');
+	color: #000000;
+}
+
+.panel-transparent .panel-body{
+    background: rgba(122, 130, 136, 0.2)!important;
+}
+
+.card-header{
+	background-image: url('../img/anime.png');
+	color: #000000;
+}
+.card-body{
+	background-color: #ADAAAD ; 
+}
+.navbar{
+	background: #0399DA !important;
+}
+.navbar-brand:link, .navbar-brand:visited{
+	color: #ffffff;
+}
+.navbar-brand:hover, .navbar-brand:active{
+	color: blue !important;
+}
+#navbar li a:link,#navbar li a:visited{
+	color: #ffffff !important;
+}
+#navbar li a:hover, #navbar li a:active{
+	color: #1E0996  !important;
+}
+
+
+
+
